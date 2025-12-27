@@ -14,6 +14,13 @@ Insurance companies need to accurately assess the likelihood of claims to:
 
 This project builds a **claim prediction model** using Python and translates model outputs into **actionable business insights** using Power BI.
 
+## Dataset
+Due to GitHub file size limits, large dataset ZIP files are excluded from this repository.
+
+Please use the provided `train.csv` and `test.csv` files to run the project.
+If the full dataset is required, it can be downloaded separately.
+
+
 ---
 
 ## 🧠 Key Features
